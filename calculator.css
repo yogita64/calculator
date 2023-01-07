@@ -3,7 +3,7 @@
     padding: 0;
 }
 
- .buttons{
+  .buttons{
     padding: 9px;
     /* margin-left: 14.5px;
     margin-right: 14.5px;
@@ -17,7 +17,7 @@
     text-align: center;
     justify-content: center;
     background-color: lightblue;
-} 
+}  
 
 .text-center {
     text-align: center;
@@ -38,8 +38,8 @@ table {
 }
 
 .button {
-    width: 88px;
-    height: 60px;
+    width: 70px;
+    height: 45px;
     background-color: lightblue;
     font-size: 30px;
 
@@ -49,7 +49,7 @@ table {
     margin: auto;
 } */
 .m-w-20 {
-    width: 100vw;
+    width: 200vw;
     text-align: center;
     justify-content: center;
     margin: auto;
@@ -81,11 +81,11 @@ table {
 .row input {
     margin: 0;
     padding: 0;
-     padding-left: 100px;
-    padding-right: 5px; 
-    width: 8vw;
-    border: 2px solid red;
-    border-radius: 9px;
+    padding-left: 60px;
+     padding-right: 5px;   
+    width: 6vw;
+    /* border: 2px solid red; */
+    /* border-radius: 9px; */
     height: 2vw;
 
 }
