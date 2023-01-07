@@ -49,7 +49,8 @@ table {
     margin: auto;
 } */
 .m-w-20 {
-    width: 60vw;
+    width: 100vw;
+    max-width: 200vw;
     text-align: center;
     justify-content: center;
     margin: auto;
@@ -91,7 +92,7 @@ table {
 }
 
 .container {
-    width: 60vw;
+    width: 30vw;
     height: 25vw;
     justify-content: center;
     align-items: center;
