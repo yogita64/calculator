@@ -38,6 +38,7 @@ table {
     height: 60px;
     background-color: lightblue;
     font-size: 30px;
+
 }
 
 /* .mx_auto{
@@ -76,12 +77,12 @@ table {
 .row input {
     margin: 0;
     padding: 0;
-    padding-left: 30px;
-    padding-right: 5px;
-    width: 10vw;
+    /* padding-left: 30px;
+    padding-right: 5px; */
+    width: 8vw;
     border: 2px solid red;
     border-radius: 9px;
-    height: 3vw;
+    height: 2vw;
 
 }
 
@@ -93,9 +94,15 @@ table {
     text-align: center;
 }
 
-.myclass {
-    text-align: center;
-    /* font-size: large; */
-    /* background-color: blue; */
+.speed {
 
+        margin-left: 14.5px;
+        margin-right: 14.5px;
+        margin-top: 14.5px;
+    
+
+}
+.myclass{
+    align-items: center;
+    text-align: center;
 }
