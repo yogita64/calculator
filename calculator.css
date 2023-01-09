@@ -84,6 +84,8 @@ table {
     /* border: 2px solid red; */
     /* border-radius: 9px; */
     height: 3vw;
+    align-items: left;
+    text-align: left;
 
 }
 
