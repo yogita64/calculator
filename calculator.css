@@ -77,13 +77,13 @@ table {
     font-size: 0px;
     height:0px;
 } */
-.row input {
-     padding-left: 100px;
+ .row input {
+ /*    padding-left: 100px; */
      /* padding-right: 2px; */
-    width: 6vw;
+    width: 10vw;
     /* border: 2px solid red; */
     /* border-radius: 9px; */
-    height: 2vw;
+    height: 3vw;
 
 }
 
